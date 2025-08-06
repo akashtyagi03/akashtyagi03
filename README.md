@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on enhancing my logical thinking in programing.
 - 🌱 I’m currently learning about full stack development
-- 📫 How to reach me: 
 ### Connect with me:
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/Akash_ty_03)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aakash-tyagi-18a685286/)
