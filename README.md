@@ -1,9 +1,6 @@
 <h1 align="center">Hi there👋, I'm Aakash tyagi</h1>
 <h2 align="center">Full Stack Developer 👨‍💻 | Turning Ideas into Real-World Solutions 🌐</h2>
 
-
----
-
 - 🔭 I’m currently working on enhancing my logical thinking in Programing.
 - 🌱 I’m currently learning about Full Stack Development
   
