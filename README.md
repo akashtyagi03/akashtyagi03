@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Aakash tyagi</h1>
-<h4 align="center">Deving into Computer Science👨‍💻🌐 | Full Stack Developer | Building Solutions for Real-World Problems</h4>
+<h3 align="center">Deving into Computer Science👨‍💻🌐 | Full Stack Developer | Building Solutions for Real-World Problems</h3>
 
 ---
 
