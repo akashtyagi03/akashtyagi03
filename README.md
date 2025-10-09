@@ -1,4 +1,69 @@
-<h1 align="center">Hi there👋, I'm Aakash tyagi</h1>
+# 👨‍💻 Full Stack Developer | Turning Ideas into Real-World Solutions 🌍  
+
+🚀 Passionate about building modern, scalable, and user-focused web applications.  
+💡 I love solving problems through clean code, creativity, and performance-driven design.  
+
+---
+
+### 🌱 Currently Working On
+- Enhancing my logical and problem-solving skills in JavaScript & React.  
+- Learning advanced backend development with Node.js, Express, and databases.  
+- Exploring AI-based integrations in full-stack applications.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Languages
+JavaScript • TypeScript • HTML • CSS • Python  
+
+#### ⚙️ Frameworks & Libraries
+React • Vite • Redux • Tailwind CSS • Express • Node.js  
+
+#### 🗄️ Databases
+MongoDB • PostgreSQL  
+
+#### 🧰 Tools
+VS Code • Git • GitHub • NPM • Postman • Netlify • Vercel  
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://linkedin.com/in/akash-tyagi03"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://discord.com/users/"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="mailto:akashtyagi6065@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashtyagi03&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtyagi03&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🧠 About Me
+
+🎯 I’m a developer who believes in **learning by building** — from simple tools to complete products.  
+🌎 Always exploring the intersection of **frontend design**, **backend logic**, and **AI integration**.  
+💬 Open to collaborating on **full-stack projects**, **open-source contributions**, and **tech discussions**.  
+
+---
+
+### 📫 Let’s Collaborate!
+If you’re working on something exciting or have an idea — let’s connect!  
+I’m always open to projects that solve real-world problems through tech.  
+
+---
+
+⭐ *“Code is like art — it’s not just about syntax, it’s about expression.”*  
+
+<!-- <h1 align="center">Hi there👋, I'm Aakash tyagi</h1>
 <h2 align="center">Full Stack Developer 👨‍💻 | Turning Ideas into Real-World Solutions 🌐</h2>
 
 
@@ -61,4 +126,4 @@
 </div>
 
 
-<hr></hr>
+<hr></hr> -->
