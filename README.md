@@ -1,8 +1,3 @@
-<!-- 💫 PROFILE BANNER -->
-<p align="center">
-  <img src="https://github.com/akashtyagi03/akashtyagi03/assets/banner-image.png" alt="Full Stack Developer Banner" width="100%" />
-</p>
-
 <!-- 🖐 INTRO -->
 <h1 align="center">Hey there 👋, I'm Akash Tyagi</h1>
 <h3 align="center">💻 Full Stack Developer | Turning Ideas into Real-World Solutions 🌍</h3>
