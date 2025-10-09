@@ -1,67 +1,73 @@
-# 👨‍💻 Full Stack Developer | Turning Ideas into Real-World Solutions 🌍  
+<!-- 💫 PROFILE BANNER -->
+<p align="center">
+  <img src="https://github.com/akashtyagi03/akashtyagi03/assets/banner-image.png" alt="Full Stack Developer Banner" width="100%" />
+</p>
 
-🚀 Passionate about building modern, scalable, and user-focused web applications.  
-💡 I love solving problems through clean code, creativity, and performance-driven design.  
+<!-- 🖐 INTRO -->
+<h1 align="center">Hey there 👋, I'm Akash Tyagi</h1>
+<h3 align="center">💻 Full Stack Developer | Turning Ideas into Real-World Solutions 🌍</h3>
+
+---
+
+### 👨‍💻 About Me
+
+🚀 I’m passionate about building **modern, scalable web applications** using the **MERN stack**.  
+💡 I enjoy exploring the intersection of frontend creativity and backend logic.  
+📈 Always learning — exploring new tools and technologies to become a better full-stack developer.  
+🤝 Open to collaborating on projects that have real-world impact.  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🧰 Tools  
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 🌱 Currently Working On
-- Enhancing my logical and problem-solving skills in JavaScript & React.  
-- Learning advanced backend development with Node.js, Express, and databases.  
-- Exploring AI-based integrations in full-stack applications.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Languages
-JavaScript • TypeScript • HTML • CSS • Python  
-
-#### ⚙️ Frameworks & Libraries
-React • Vite • Redux • Tailwind CSS • Express • Node.js  
-
-#### 🗄️ Databases
-MongoDB • PostgreSQL  
-
-#### 🧰 Tools
-VS Code • Git • GitHub • NPM • Postman • Netlify • Vercel  
+- Improving my logic and React, Nextjs skills  
+- Building projects with real-world applications  
+- Learning and contributing to open-source  
 
 ---
 
 ### 🤝 Connect With Me
-
 <p align="left">
-  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://linkedin.com/in/akash-tyagi03"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://discord.com/users/"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="https://www.linkedin.com/in/aakash-tyagi-18a685286/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://x.com/Akash_ty03"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="mailto:akashtyagi6065@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://discord.com/akash_tyagi03/"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashtyagi03&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtyagi03&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+⭐ *"Code is not just about solving problems — it’s about creating experiences."*  
 
----
-
-### 🧠 About Me
-
-🎯 I’m a developer who believes in **learning by building** — from simple tools to complete products.  
-🌎 Always exploring the intersection of **frontend design**, **backend logic**, and **AI integration**.  
-💬 Open to collaborating on **full-stack projects**, **open-source contributions**, and **tech discussions**.  
-
----
-
-### 📫 Let’s Collaborate!
-If you’re working on something exciting or have an idea — let’s connect!  
-I’m always open to projects that solve real-world problems through tech.  
-
----
-
-⭐ *“Code is like art — it’s not just about syntax, it’s about expression.”*  
 
 <!-- <h1 align="center">Hi there👋, I'm Aakash tyagi</h1>
 <h2 align="center">Full Stack Developer 👨‍💻 | Turning Ideas into Real-World Solutions 🌐</h2>
@@ -75,7 +81,7 @@ I’m always open to projects that solve real-world problems through tech.
 <a href="https://twitter.com/Akash_ty_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Akash_ty_03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aakash-tyagi-18a685286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-tyagi-18a685286" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/akash_ty.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devxoshakya" height="30" width="40" /></a> -->
-<a href="https://discord.gg/akash_tyagi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akash_tyagi03" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/akash_tyagi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akash_tyagi03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -126,4 +132,4 @@ I’m always open to projects that solve real-world problems through tech.
 </div>
 
 
-<hr></hr> -->
+<hr></hr> --> -->
