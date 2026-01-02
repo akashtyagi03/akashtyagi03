@@ -8,10 +8,11 @@
 
 ### 👨‍💻 About Me
 
-🚀 I’m passionate about building **modern, scalable web applications** using the **MERN stack**.  
-💡 I enjoy exploring the intersection of frontend creativity and backend logic.  
-📈 Always learning — exploring new tools and technologies to become a better full-stack developer.  
-🤝 Open to collaborating on projects that have real-world impact.  
+🚀 I build scalable, production-ready web applications and AI-powered workflows using modern full-stack technologies.<br/>
+🤖 I work at the intersection of frontend engineering, backend systems, and **AI automation** — designing **agentic workflows** with tools like **n8n, OpenAI APIs, and webhooks** to automate decision-making and real-world processes.<br/>
+🧠 I enjoy turning complex problems into clean architectures, whether it’s a React UI, a secure API, or an intelligent automation pipeline.<br/>
+🌱 Constantly learning, shipping, and iterating — with a focus on real-world impact and system reliability.
+ 
 
 ---
 
@@ -48,10 +49,13 @@
 
 ---
 
-### 🌱 Currently Working On
-- Improving my logic and React, Nextjs skills  
-- Building projects with real-world applications  
-- Learning and contributing to open-source  
+### 🚧 Currently Working On
+
+-- Strengthening core problem-solving skills and deepening expertise in React, Next.js, and TypeScript <br/>
+-- Building end-to-end projects that mirror real-world production scenarios <br/>
+-- Designing and experimenting with AI automation workflows for efficiency and scale <br/>
+-- Improving backend architecture, API design, and database modeling <br/>
+-- Actively learning and contributing to open-source, with an emphasis on code quality and collaboration <br/>
 
 ---
 
