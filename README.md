@@ -4,7 +4,6 @@
 </p>
 <h1>Hey there 👋, I'm Akash Tyagi</h1>
 
----
 
 ### 👨‍💻 About Me
 
@@ -12,9 +11,8 @@
 🤖 I work at the intersection of frontend engineering, backend systems, and **AI automation** — designing **agentic workflows** with tools like **n8n, OpenAI APIs, and webhooks** to automate decision-making and real-world processes.<br/>
 🧠 I enjoy turning complex problems into clean architectures, whether it’s a React UI, a secure API, or an intelligent automation pipeline.<br/>
 🌱 Constantly learning, shipping, and iterating — with a focus on real-world impact and system reliability.
- 
 
----
+<h1> </h1>
 
 ### 🛠️ Tech Stack
 
@@ -47,7 +45,7 @@
 ![Webhook](https://img.shields.io/badge/-Webhook-02569B?style=for-the-badge&logo=webhooks&logoColor=white)
 ![Symbol](https://img.shields.io/badge/-Symbol-9146FF?style=for-the-badge&logo=simpleicons&logoColor=white)
 
----
+<h1> </h1>
 
 ### 🚧 Currently Working On
 
@@ -57,7 +55,7 @@
 -- Improving backend architecture, API design, and database modeling <br/>
 -- Actively learning and contributing to open-source, with an emphasis on code quality and collaboration <br/>
 
----
+<h1> </h1>
 
 ### 🤝 Connect With Me
 <p align="left">
@@ -67,6 +65,6 @@
   <a href="https://discord.com/akash_tyagi03/"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
----
+<h1> </h1>
 
 ⭐ *"Code is not just about solving problems — it’s about creating experiences."*  
