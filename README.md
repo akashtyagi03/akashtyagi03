@@ -1,6 +1,8 @@
 <!-- 🖐 INTRO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akashtyagi03/akashtyagi03/main/banner.svg" alt="Aakash Tyagi banner" />
+</p>
 <h1>Hey there 👋, I'm Akash Tyagi</h1>
-<h3>💻 Full Stack Developer | Turning Ideas into Real-World Solutions 🌍</h3>
 
 ---
 
